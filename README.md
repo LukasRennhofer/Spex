@@ -4,11 +4,11 @@ Spe* Generation System
 
 
 <p align="center">
-    <img src="page/Spe.png" width="1080" alt="CHIFEngine logo">
+    <img src="page/Spe.png" width="1080" alt="Spe* logo">
 </p>
 
 
-###  Spe* is a modular and scalable Entity & World Generation System designed for Project Voronoid and large-scale-procedural games. It provides procedural generation, a custom binary storage format and an ECS-based architecture for high performance. 
+###  Spe* is a modular and scalable Entity & World Generation System designed for the CHIFEngine. It provides procedural generation, a custom binary storage format and an ECS-based architecture for high performance. 
 
 ## Introduction
 
@@ -43,8 +43,6 @@ cd build
 cmake --
 make
 ```
-
-After successful compilation, you can link Spe* to your game project or test it directly by running the example worlds.
 
 ## Core Concepts
 ### Entity-Component System (ECS)
