@@ -1,4 +1,4 @@
-# Spe* General C++ Coding Guidelines - Lukas Rennhofer @2025
+# CHIFEngine/Spe* General C++ Coding Guidelines - Lukas Rennhofer @2025
 
 ## 1. Code Readability
 ### 1.1. Naming Conventions
@@ -19,8 +19,7 @@ Function names should describe the action they perform (e.g., ```loadWorldData()
 
 Comments should explain why something is being done, not what is being done (the code itself should be clear about what it does).
 Comment on complex logic or algorithms in functions.
-Every function should have a header comment, especially for public APIs and critical sections.
-
+Every function should have a header comment, especially for public APIs and critical sections, but are not essantial and not needed explicitly.
 
 ```C++
 /**
